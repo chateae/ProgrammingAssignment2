@@ -1,3 +1,6 @@
+## R Programming Programming Assignment 2
+## By Chateae
+
 ## Put comments here that give an overall description of what your
 ## functions do
 
